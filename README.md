@@ -1,57 +1,57 @@
-<h1>Hi, I'm Srihari! <a href="https://www.linkedin.com/in/srihari-nair/">Masters Student at UCSD</a>, <a href="https://github.com/joshmadakor1">Business Analyst</a>
+<h1 align="center">Hi 👋, I'm Srihari</h1>
+<h3 align="center">Currently mastering Business Analytics at UC San Diego, aspiring to drive innovation in Product Management with data-centric strategies</h3>
 
-<h2>👨‍💻 My Projects</h2>
+- 📫 How to reach me **s2nair@ucsd.edu**
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/srihari-nair/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srihari-nair" height="30" width="40" /></a>
+<a href="https://instagram.com/sri_9876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri_9876" height="30" width="40" /></a>
+</p>
 
-<h2>🎖️ Certifications</h2>
-<ul>
-  <li><b>AWS Certified Cloud Practitioner</b></li>
-  <li><b>Professional Scrum Master</b></li>
-  <li><b>Competent Leadership - Toastmasters International</b></li>
-  <li><b>Tableau Desktop Specialist</b></li>
-</ul>
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-<h2> 🤳 Connect with me:</h2>
-<a href="https://www.linkedin.com/in/srihari-nair/">
-  <img align="left" alt="Srihari Nair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:s2nair@ucsd.edu">
-  <img align="left" alt="Srihari Nair | Email" width="26px" src="https://i.imgur.com/l8BsahT.png" />
-</a>
-<a href="https://www.instagram.com/sri_9876/">
-  <img align="left" alt="Srihari Nair | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40"/>
+  </a>
+  <!-- Generic SQL icon link, update as needed for specific SQL technology -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" width="40" height="40"/>
+  </a>
+  <a href="https://www.notion.so/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="Github" width="40" height="40"/>
+  </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/343/955/png-transparent-atlassian-confluence-computer-icons-atlassian-jira-atlassian-miscellaneous-angle-text.png" alt="Confluence" width="40" height="40"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://w7.pngwing.com/pngs/668/226/png-transparent-atlassian-jira-logo-atlassian-confluence-computer-software-others-miscellaneous-blue-text-thumbnail.png" alt="Jira" width="40" height="40"/>
+  </a>
+  <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" alt="Google Sheets" width="40" height="40"/>
+  </a>
+  <a href="https://www.google.com/docs/about/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Docs_logo.svg" alt="Google Docs" width="40" height="40"/>
+  </a>
+  <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/>
+  </a>
+  <a href="https://looker.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Looker_logo.svg" alt="Looker" width="40" height="40"/>
+  </a>
+</p>
