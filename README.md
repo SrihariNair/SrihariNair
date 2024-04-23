@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srihari</h1>
 <h3 align="center">Currently mastering Business Analytics at UC San Diego, aspiring to drive innovation in Product Management with data-centric strategies</h3>
 
-- 📫 How to reach me **s2nair@ucsd.edu**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/srihari-nair/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srihari-nair" height="30" width="40" /></a>
-<a href="https://instagram.com/sri_9876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri_9876" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -15,7 +8,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/>
+    <img src="https://analyticstraininghub.com/wp-content/uploads/2020/10/icon-tableau.png" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="PowerBI" width="40" height="40"/>
@@ -37,21 +30,29 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="Github" width="40" height="40"/>
   </a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/343/955/png-transparent-atlassian-confluence-computer-icons-atlassian-jira-atlassian-miscellaneous-angle-text.png" alt="Confluence" width="40" height="40"/>
+    <img src="https://www.logo.wine/a/logo/Confluence_(software)/Confluence_(software)-Logo.wine.svg" alt="Confluence" width="40" height="40"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/668/226/png-transparent-atlassian-jira-logo-atlassian-confluence-computer-software-others-miscellaneous-blue-text-thumbnail.png" alt="Jira" width="40" height="40"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-jira-282222.png?f=webp" alt="Jira" width="40" height="40"/>
   </a>
   <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" alt="Google Sheets" width="40" height="40"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/017/396/799/original/google-sheets-apps-logo-free-png.png" alt="Google Sheets" width="40" height="40"/>
   </a>
   <a href="https://www.google.com/docs/about/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Docs_logo.svg" alt="Google Docs" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968517.png" alt="Google Docs" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" alt="BigQuery" width="40" height="40"/>
   </a>
   <a href="https://looker.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Looker_logo.svg" alt="Looker" width="40" height="40"/>
+    <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/jqycac4nitgaoauawrxg" alt="Looker" width="40" height="40"/>
   </a>
+</p>
+
+- 📫 How to reach me **s2nair@ucsd.edu**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/srihari-nair/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srihari-nair" height="30" width="40" /></a>
+<a href="https://instagram.com/sri_9876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri_9876" height="30" width="40" /></a>
 </p>
