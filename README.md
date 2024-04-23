@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Srihari</h1>
-<h3 align="center">Currently mastering Business Analytics at UC San Diego, aspiring to drive innovation in Product Management with data-centric strategies</h3>
+
+<p align="center">
+  <img src="https://cdn.shortpixel.ai/stsp/to_webp,q_lossy,ret_img/https://www.theproductinsider.com/wp-content/uploads/2022/03/ProductImage.png" alt="Product Image" width="900" height="400">
+</p>
+
+<h3 align="center">Business Analyst turned Product Manager</h3>
+
+- 🔭 I’m currently pursuing [Masters in Business Analytics @ UC San Diego](https://www.google.com/)
+
+- 🌱 I’m currently learning **New Product Development, Innovative Product & Program Management,**
+
+- 👯 My Analytics Projects [https://www.google.com/](https://www.google.com/)
+
+- 🤝 My PM Projects [https://www.google.com/](https://www.google.com/)
+
+- 📫 How to reach me **s2nair@ucsd.edu**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,8 +63,6 @@
     <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/jqycac4nitgaoauawrxg" alt="Looker" width="40" height="40"/>
   </a>
 </p>
-
-- 📫 How to reach me **s2nair@ucsd.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
