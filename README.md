@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srihari</h1>
 
 <p align="center">
-  <img src="https://cdn.shortpixel.ai/stsp/to_webp,q_lossy,ret_img/https://www.theproductinsider.com/wp-content/uploads/2022/03/ProductImage.png" alt="Product Image" width="900" height="400">
+  <img src="https://cdn.shortpixel.ai/stsp/to_webp,q_lossy,ret_img/https://www.theproductinsider.com/wp-content/uploads/2022/03/ProductImage.png" alt="Product Image" width="500" height="200">
 </p>
 
 <h3 align="center">Business Analyst turned Product Manager</h3>
