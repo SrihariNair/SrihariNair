@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srihari</h1>
+<h2 align="center">Business Analyst turned Product Manager</h2>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-<h3 align="center">Business Analyst turned Product Manager</h3>
 
 - 🔭 I’m pursuing **Masters in Business Analytics @ UC San Diego**
 
