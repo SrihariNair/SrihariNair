@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srihari</h1>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://drive.google.com/file/d/1Q7r_CBK-tAASYK8s2Yh_nV1KXtjT7hYl/view?usp=sharing)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <h3 align="center">Business Analyst turned Product Manager</h3>
 
