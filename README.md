@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Srihari</h1>
 <h2 align="center">Business Analyst turned Product Manager</h2>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
+
+<p><br></p>
 
 - 🔭 I’m pursuing **Masters in Business Analytics @ UC San Diego**
 
@@ -10,6 +12,25 @@
 - 🤝 Learn more about me **[here](https://drive.google.com/file/d/1JSFVSQd8IWpK079oFW8qJYReTa_ChpWc/view?usp=drive_link)**
 
 - 📫 How to reach me **s2nair@ucsd.edu**
+
+<p><br></p>
+
+## 👩‍💼 Professional Summary
+I'm a multifaceted professional with rich experiences in Product Management, Data Analysis, and Business Analysis. My journey includes impactful roles in Quantiphi Analytics, and Nishkaiv Solutions, where I've leveraged my analytics, product strategy, and market analysis skills to drive business success.
+
+## 💼 Product Management
+- 0-1 Development of QDox for Banking and Insurance customers at Quantiphi.
+- Skilled in agile methodology, product strategy, and market analysis.
+- Adept in customer research, A/B testing, and product lifecycle management.
+
+## 📊 Data Analysis
+- Expertise in leveraging advanced analytics tools like Tableau, Power BI, and SQL.
+- Proficient in Python, R, and various database management systems.
+- Experienced in optimizing supply chains, customer segmentation analysis, and predictive modeling.
+
+## 📈 Business Analysis
+- Proven ability in business intelligence, market analysis, and financial modeling.
+- Experienced in project management, fostering stakeholder engagement, and cross-functional collaboration.
 
 
 <h3 align="left">Languages and Tools:</h3>
