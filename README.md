@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Srihari</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://drive.google.com/file/d/1Q7r_CBK-tAASYK8s2Yh_nV1KXtjT7hYl/view?usp=sharing)">
 
 <h3 align="center">Business Analyst turned Product Manager</h3>
 
-- 🔭 I’m currently pursuing **Masters in Business Analytics @ UC San Diego**
+- 🔭 I’m pursuing **Masters in Business Analytics @ UC San Diego**
 
 - 🌱 I’m currently learning **Data-Driven Product Development**
 
-- 🤝 You can view my work [here](https://www.google.com/)
+- 🤝 Learn more about me **[here](https://drive.google.com/file/d/1JSFVSQd8IWpK079oFW8qJYReTa_ChpWc/view?usp=drive_link)**
 
 - 📫 How to reach me **s2nair@ucsd.edu**
 
